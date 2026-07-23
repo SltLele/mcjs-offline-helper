@@ -83,8 +83,8 @@ ipv6.mcjs.cc
 
 如有任何问题、建议或投诉，请通过以下渠道联系：
 
-GitHub Issues：https://github.com/sltlele/mcjs-helper/issues
-邮件：sltlele@example.com（请替换为你的真实邮箱）
+GitHub Issues：https://github.com/sltlele/mcjs-offline-helper/issues
+邮件：15527781950@163.com（请替换为你的真实邮箱）
 
 生效日期：2026 年 7 月 23 日
 最后更新：2026 年 7 月 23 日
